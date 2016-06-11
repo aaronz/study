@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.config-list{
+  float:left;
+  width:40%
+}
+
+.config-list ul{
+  margin-bottom: 1em;
+  list-style:none;
+  padding-left:0;
+}
+
+.config-detail{
+  float:left;
+  width:40%
+}
+
+#config{
+  float:right;
+  height:500px;
+  width: 100%;
+}

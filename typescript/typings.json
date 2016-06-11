@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "debug": "registry:npm/debug#2.0.0+20160511151334"
+  },
+  "globalDependencies": {
+    "jquery.gridster/gridster": "registry:dt/jquery.gridster/gridster#0.5.6+20160316155526"
+  }
+}

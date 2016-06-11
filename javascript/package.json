@@ -1,0 +1,19 @@
+{
+  "name": "wisdomui",
+  "version": "1.0.0",
+  "description": "UI framework for Wisdom Project.",
+  "main": "src/wisdomui.js",
+  "dependencies": {
+    "jquery": "^1.12.3"
+  },
+  "devDependencies": {
+    "expose-loader": "^0.7.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

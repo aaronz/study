@@ -1,0 +1,24 @@
+{
+  "name": "gridster-echarts-demo",
+  "version": "1.0.0",
+  "description": "a demo project for grister with echarts.",
+  "main": "app.js",
+  "dependencies": {
+    "echarts": "^3.1.1",
+    "gridster.js": "^0.7.0",
+    "jquery": "^2.2.1"
+  },
+  "dev-dependencies":{
+    "file-loader": "^0.8.5",
+    "css-loader": "^0.23.1",
+    "webpack": "^1.12.14",
+    "style-loader": "^0.13.0",
+    "webpack-dev-server": "^1.14.1"
+    },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaron.cheung@hotmail.com",
+  "license": "MIT"
+}

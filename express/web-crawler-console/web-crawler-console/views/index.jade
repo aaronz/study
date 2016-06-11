@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  h1= title
+  div(class='config-list')
+    ul
+      each val in crawlers
+        li(class='crawler')= val.name
+    input(
+      type='button'
+      name='createNew'
+      value='Create'
+    )
+  div(class='config-detail')
+    textarea(
+      id='config'
+      class='config'
+    )
+  script(src='/javascripts/app.js')
